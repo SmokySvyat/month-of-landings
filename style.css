@@ -65,7 +65,6 @@
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: flex-end;
-}
 
 .nav__links {
     list-style-type: none;
