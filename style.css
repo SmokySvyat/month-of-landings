@@ -1,4 +1,4 @@
-@import url(vendor/normalize.css);
+/* @import url(vendor/normalize.css);
 @import url(fonts/fonts.css);
 
 @import url(./blocks/bikes/bikes.css);
@@ -99,7 +99,7 @@
 /*********___INTRO___**********/
 /******************************/
 
-.intro {
+/* .intro {
     max-width: 1440px;
     width: 100%;
     padding-top: 95px;
@@ -199,7 +199,7 @@
 /********___Section___*********/
 /******************************/
 
-.section__title {
+/*.section__title {
     font-size: 55px;
     line-height: 60px;
     font-weight: 700;
@@ -216,13 +216,13 @@
     opacity: 0.7;
     margin: 50px 0 0 0;
     max-width: 460px;
-}
+}*/
 
 /******************************/
 /*********___QUOTE___**********/
 /******************************/
 
-.quote {
+/*.quote {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     padding: 120px 120px 60px 120px;
@@ -276,13 +276,13 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 28px;
-}
+}*/
 
 /******************************/
 /********___Coverage___********/
 /******************************/
 
-.coverage {
+/*.coverage {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     max-width: 1440px;
@@ -343,4 +343,4 @@
     -webkit-transition: 0.2s;
     -o-transition: 0.2s;
     transition: 0.2s;
-}
+} */
