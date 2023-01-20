@@ -27,6 +27,7 @@
 @import url(../blocks/quote/__author/quote__author.css);
 
 @import url(../blocks/coverage/coverage.css);
+@import url(../blocks/svg/svg.css);
 @import url(../blocks/coverage/__image-container/coverage__image-container.css);
 @import url(../blocks/coverage/__image/coverage__image.css);
 @import url(../blocks/vector-bar/vector-bar.css);
@@ -47,7 +48,6 @@
 @import url(../blocks/bike/__caption/bike__caption.css);
 
 @import url(../blocks/training/training.css);
-@import url(../blocks/training/__description/training__description.css);
 @import url(../blocks/training/__image/training__image.css);
 
 @import url(../blocks/app-links/app-links.css);
