@@ -1,4 +1,4 @@
-.section__text {
+.root__section_text {
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 845px) {
-    .section__text {
+    .root__section_text {
         margin: 25px 0 0 0;
         font-size: 16px;
         line-height: 26px;
