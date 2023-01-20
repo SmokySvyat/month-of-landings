@@ -1,4 +1,5 @@
 .item-bike {
+    position: relative;
     visibility: hidden;
 }
 
