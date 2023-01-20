@@ -25,3 +25,14 @@
         width: 320px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .intro__bike {
+        width: 234px;
+        position: absolute;
+        left: 18px;
+        top: 385px;
+        padding: 10.67px 20.59px;
+        margin-bottom: 0;
+    }
+}

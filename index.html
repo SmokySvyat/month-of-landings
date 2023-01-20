@@ -11,7 +11,7 @@
 </head>
 
 <body class="root">
-    <nav class="nav">
+    <nav class="nav burger">
         <ul class="nav__links">
             <li><a class="nav__link" href="#coverage">Покрытия и градиенты</a></li>
             <li><a class="nav__link" href="#bikes">Велосипеды</a></li>
@@ -20,7 +20,7 @@
     </nav>
 
     <section class="intro">
-          <h1 class="root__section_title heading">Шоссе, ТТ и Грэвел</h1>
+          <h1 class="root__section_title heading">Шоссе, ТТ и &nbsp;Грэвел</h1>
           <p class="root__section_text">Триатлонные старты, горные серпантины или грейвел заезды по 
             живописным маршрутам – нужно только определиться с выбором велосипеда и отправиться 
             в путь.
@@ -38,6 +38,7 @@
     </section>
 
     <section class="quote">
+      <div class="underline"></div>
         <img class="quote__image" src="images/quote__image.jpg" alt="">
 
         <div class="quote__description-container">
@@ -84,6 +85,7 @@
     
     
     <section class="bikes" id="bikes">
+      <div class="underline"></div>
       <div class="bikes__allign">
         <h2 class="root__section_title">Велосипеды</h2>
 
@@ -95,6 +97,10 @@
           </ul>
         </nav>
       </div>
+
+      <select class="item-bike" name="bike" id="bike">
+        <option value="Road">Шоссе</option>
+      </select>
         
         <ul class="bikes__cards">
           <li class="bike">

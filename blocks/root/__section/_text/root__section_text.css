@@ -20,6 +20,8 @@
 
 @media screen and (max-width: 745px) {
     .root__section_text {
+        /* grid-area: description; */
+        max-width: 284px;
         font-size: 12px;
         line-height: 18px;
         margin: 0;

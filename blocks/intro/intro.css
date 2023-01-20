@@ -22,3 +22,26 @@
         grid-template-columns: minmax(230px, 285px) minmax(150px, 410px);
     }
 }
+
+@media screen and (max-width: 767px) {
+    .intro {
+        /* padding-top: 74px; */
+        padding: 40px 18px;
+        display: grid;
+        grid-template-rows: 500px 500px 500px 500px;
+        position: relative;
+        /* padding: 74px 0 0; */
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas: 
+            'title'
+            'image'
+            'description'
+            'button'
+            ;
+        column-gap: 0;
+        grid-template-columns: none;
+        max-width: 767px;
+        width: 100%;
+
+    }
+}

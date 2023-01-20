@@ -23,3 +23,10 @@
         padding: 120px 40px 60px 40px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .quote {
+        padding: 40px 18px;
+        flex-direction: column;
+    }
+}

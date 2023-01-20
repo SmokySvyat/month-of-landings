@@ -19,3 +19,9 @@
         line-height: 16px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .intro__model {
+        display: none;
+    }
+}
