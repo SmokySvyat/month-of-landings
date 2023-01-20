@@ -19,3 +19,9 @@
         width: 380px;
     }
 }
+
+@media screen and (max-width: 845px) {
+    .intro__bike {
+        width: 320px;
+    }
+}

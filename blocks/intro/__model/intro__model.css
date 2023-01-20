@@ -3,6 +3,8 @@
     font-size: 18px;
     line-height: 18px;
     font-weight: 400;
+    grid-column: 1;
+    grid-row: 4;
 }
 
 @media screen and (max-width: 1115px) {

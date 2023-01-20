@@ -1,13 +1,16 @@
 .intro__bike-container {
-    width: 810px;
+    max-width: 810px;
+    width: 100%;
     height: 836px;
     background-image: url(../../../images/intro__background.jpg);
     background-position: right;
     background-repeat: no-repeat;
+    grid-column: 2;
+    grid-row: 1 / span 5;
 }
 
 @media screen and (max-width: 845px) {
     .intro__bike-container {
-        width: 500px;
+        max-width: 400px;
     }
 }
