@@ -12,9 +12,3 @@
         padding: 28px 60px 28px 0;
     }
 }
-
-@media screen and (max-width: 745px) {
-    .nav__links::after {
-        content: "☰";
-    }
-}
